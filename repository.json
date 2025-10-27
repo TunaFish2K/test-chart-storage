@@ -1,4 +1,7 @@
 {
     "name": "测试站点",
-    "description": ""
+    "description": "",
+    "channels": [
+        "test"
+    ]
 }

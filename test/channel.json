@@ -1,4 +1,7 @@
 {
     "name": "Phigros 测试",
-    "description": ""
+    "description": "",
+    "charts": [
+        "test_chart"
+    ]
 }
