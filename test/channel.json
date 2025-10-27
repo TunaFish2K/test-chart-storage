@@ -2,6 +2,7 @@
     "name": "Phigros 测试",
     "description": "",
     "charts": [
-        "test_chart"
+        "test_chart",
+        "chart_2"
     ]
 }
